@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- 🌱 I’m currently learning git. I've read one O'Reilly book, reading a second O'Reilly book, and I've become a maintainer on the Library Carpentry Lesson on 
+ 🌱 I’m currently learning Git.
+  ⚡ I'm a member of the Library Carpentry Advisory Group. 
+  💻 I wrangle metadata and digital assets. 
 <!--
 **emcaulay/emcaulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
